@@ -1,4 +1,0 @@
-192.168.2.75
-[all:vars]
-ansible_user=emiel
-ansible_ssh_private_key_file=/.ssh/id_rsa
